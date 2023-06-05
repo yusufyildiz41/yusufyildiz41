@@ -1,7 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 
-<div align=center>https://imgur.com/gallery/T6vMoUw</div>
+<div align=center>
+  ![I'm an Android Developer](https://github.com/yusufyildiz41/yusufyildiz41/assets/81565501/540922f4-823d-4787-aebb-c62fe35aa36b)
+</div>
 
 ### About me
 
