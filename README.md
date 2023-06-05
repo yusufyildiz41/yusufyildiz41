@@ -1,4 +1,8 @@
 
+<h1 align="center">Hi 👋, I'm Yusuf</h1>
+
+<div align=center>https://imgur.com/gallery/T6vMoUw</div>
+
 ### About me
 
 * 💻 I love writing Kotlin, and building Android Apps.
@@ -9,7 +13,7 @@
 
 * 💯 Finalist in Technological Applications in Psychology category in Teknofest 2023 competition.
 
-* ✉️ How to reach me [yyusuf0441@gmail.com]
+* ✉️ How to reach me yyusuf0441@gmail.com
 
 ### Connect with me
 <p align="left">
