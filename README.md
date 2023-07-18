@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <div align=center>
-  <img src="https://github.com/yusufyildiz41/yusufyildiz41/assets/81565501/d8bc1eeb-0f90-456f-8480-970a60e0838b" width= "600" height= "400">
+  <img src="https://github.com/yusufyildiz41/yusufyildiz41/assets/81565501/d8bc1eeb-0f90-456f-8480-970a60e0838b" width= "600" height= "450">
 </div>
 
 
