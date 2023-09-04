@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <div align=center>
-  <img src="https://github.com/yusufyildiz41/yusufyildiz41/assets/81565501/d8bc1eeb-0f90-456f-8480-970a60e0838b" width= "600" height= "450">
+  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&color=30DC72&center=true&vCenter=true&width=800&height=100&lines=I'm+an+Android+Developer />
 </div>
 
 
