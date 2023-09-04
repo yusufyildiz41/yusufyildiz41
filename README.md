@@ -1,7 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0FFF04&center=true&width=435&lines=I'm+an+Android+Developer" alt="Typing SVG" /></a>
+<div align=center>
+  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&color=30DC72&center=true&vCenter=true&width=800&height=100&lines=I'm+an+Android+Developer" alt="Headline" />
+</div>
+
 
 ### About me
 
