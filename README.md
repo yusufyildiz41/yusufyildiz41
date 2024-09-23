@@ -14,7 +14,7 @@
 
 * 🌱 I'm currently learning Kotlin and Jetpack Compose.
 
-* 💯 Finalist in Technological Applications in Psychology category in Teknofest 2023 competition.
+* 💯 Finalist in Technological Applications in Psychology category in Teknofest 2023, 2024 competition.
 
 * ✉️ How to reach me yyusuf0441@gmail.com
 
