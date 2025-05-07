@@ -8,11 +8,9 @@
 
 ### About me
 
-* 💻 I love writing Kotlin, and building Android Apps.
+* 💻 I love writing Kotlin, Flutter, and building Mobile Apps.
 
 * 🎓 Computer Engineering at Selcuk University.
-
-* 🌱 I'm currently learning Kotlin and Jetpack Compose.
 
 * 💯 Finalist in Technological Applications in Psychology category in Teknofest 2023, 2024 competition.
 
